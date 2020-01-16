@@ -1,7 +1,7 @@
 /*
  *  Arduino SD Card Tutorial Example
  *  
- *  by Dejan Nedelkovski, www.HowToMechatronics.com
+ *  by Noor khokhar
  */
 #include <SD.h>
 #include <SPI.h>
